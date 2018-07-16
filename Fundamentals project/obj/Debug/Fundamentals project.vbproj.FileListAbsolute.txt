@@ -1,0 +1,10 @@
+c:\users\alastair\documents\visual studio 2015\Projects\Fundamentals project\Fundamentals project\bin\Debug\Fundamentals project.exe.config
+c:\users\alastair\documents\visual studio 2015\Projects\Fundamentals project\Fundamentals project\obj\Debug\Fundamentals project.vbprojResolveAssemblyReference.cache
+c:\users\alastair\documents\visual studio 2015\Projects\Fundamentals project\Fundamentals project\obj\Debug\Fundamentals_project.Resources.resources
+c:\users\alastair\documents\visual studio 2015\Projects\Fundamentals project\Fundamentals project\obj\Debug\Fundamentals project.vbproj.GenerateResource.Cache
+c:\users\alastair\documents\visual studio 2015\Projects\Fundamentals project\Fundamentals project\obj\Debug\Fundamentals project.xml
+c:\users\alastair\documents\visual studio 2015\Projects\Fundamentals project\Fundamentals project\bin\Debug\Fundamentals project.exe
+c:\users\alastair\documents\visual studio 2015\Projects\Fundamentals project\Fundamentals project\bin\Debug\Fundamentals project.pdb
+c:\users\alastair\documents\visual studio 2015\Projects\Fundamentals project\Fundamentals project\bin\Debug\Fundamentals project.xml
+c:\users\alastair\documents\visual studio 2015\Projects\Fundamentals project\Fundamentals project\obj\Debug\Fundamentals project.exe
+c:\users\alastair\documents\visual studio 2015\Projects\Fundamentals project\Fundamentals project\obj\Debug\Fundamentals project.pdb
